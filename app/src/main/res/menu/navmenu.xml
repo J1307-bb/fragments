@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemfrag1"
+        android:icon="@drawable/screen"
+        android:title="Fragmento 1" />
+
+    <item
+        android:id="@+id/itemfrag2"
+        android:icon="@drawable/screen"
+        android:title="Fragmento 2" />
+
+    <item
+        android:id="@+id/itemfrag3"
+        android:icon="@drawable/screen"
+        android:title="Fragmento 3" />
+
+</menu>
